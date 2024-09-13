@@ -1,20 +1,20 @@
 # 1. Selecting Models
 
-![](videoframe_33228.png)
+![](Slides/videoframe_33228.png)
 
 ---
 
-![](videoframe_192177.png)
+![](Slides/videoframe_192177.png)
 
 ---
 
-![](videoframe_193829.png)
+![](Slides/videoframe_193829.png)
 
 ---
 
-![](videoframe_208089.png)
+![](Slides/videoframe_208089.png)
 
 ---
 
-![](videoframe_247459.png)
+![](Slides/videoframe_247459.png)
 
